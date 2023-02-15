@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "TEST",
+  "age": 14,
+  "email": "TEST@mail.ru",
+  "profile": {
+    "cash": 10000,
+    "maxCash": 27000
+  },
+  "phones": [
+    {
+      "id": 1,
+      "value": "+7 999 888 77 66"
+    }
+  ]
+}
