@@ -31,7 +31,6 @@
 		<commons-collections4.version>4.4</commons-collections4.version>
 		<springdoc-openapi-ui.version>1.6.9</springdoc-openapi-ui.version>
 		<javax.validation-api.version>2.0.1.Final</javax.validation-api.version>
-		<iquser-client.version>v1.6.4-stage-v2</iquser-client.version>
 	</properties>
 
 	<dependencies>
